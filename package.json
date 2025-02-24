@@ -1,0 +1,10 @@
+{
+  "name": "PT1",
+  "version": "0.0.0",
+  "description": "Project for Test in Class",
+  "main": "index.js",
+  "repository": "https://github.com/K1rYaCIIe/RT1",
+  "author": "K1rYaCIIe <kp13051982@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
